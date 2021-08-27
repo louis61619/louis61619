@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @louis61619
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning Javascript and some Algorithm
+- 👀 I’m Learning Front-End Development
 
 <!---
 louis61619/louis61619 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
